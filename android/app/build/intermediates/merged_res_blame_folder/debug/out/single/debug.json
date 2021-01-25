@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "E:\\Innovate 369\\Student\\final student app\\31-12-20\\easemyeducation\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "E:\\Innovate 369\\Student\\final student app\\31-12-20\\easemyeducation\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Innovate 369\\Student\\final student app\\31-12-20\\easemyeducation\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_splash_logo.png.flat",
+        "source": "E:\\Innovate 369\\Student\\final student app\\31-12-20\\easemyeducation\\android\\app\\src\\main\\res\\drawable-mdpi\\splash_logo.png"
+    },
+    {
+        "merged": "E:\\Innovate 369\\Student\\final student app\\31-12-20\\easemyeducation\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_splash_logo.png.flat",
+        "source": "E:\\Innovate 369\\Student\\final student app\\31-12-20\\easemyeducation\\android\\app\\src\\main\\res\\drawable-ldpi\\splash_logo.png"
+    },
+    {
+        "merged": "E:\\Innovate 369\\Student\\final student app\\31-12-20\\easemyeducation\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_splash_logo.png.flat",
+        "source": "E:\\Innovate 369\\Student\\final student app\\31-12-20\\easemyeducation\\android\\app\\src\\main\\res\\drawable-hdpi\\splash_logo.png"
+    },
+    {
+        "merged": "E:\\Innovate 369\\Student\\final student app\\31-12-20\\easemyeducation\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "E:\\Innovate 369\\Student\\final student app\\31-12-20\\easemyeducation\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Innovate 369\\Student\\final student app\\31-12-20\\easemyeducation\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Innovate 369\\Student\\final student app\\31-12-20\\easemyeducation\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Innovate 369\\Student\\final student app\\31-12-20\\easemyeducation\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Innovate 369\\Student\\final student app\\31-12-20\\easemyeducation\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Innovate 369\\Student\\final student app\\31-12-20\\easemyeducation\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Innovate 369\\Student\\final student app\\31-12-20\\easemyeducation\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Innovate 369\\Student\\final student app\\31-12-20\\easemyeducation\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\Innovate 369\\Student\\final student app\\31-12-20\\easemyeducation\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Innovate 369\\Student\\final student app\\31-12-20\\easemyeducation\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_splash_logo.png.flat",
+        "source": "E:\\Innovate 369\\Student\\final student app\\31-12-20\\easemyeducation\\android\\app\\src\\main\\res\\drawable-xhdpi\\splash_logo.png"
+    },
+    {
+        "merged": "E:\\Innovate 369\\Student\\final student app\\31-12-20\\easemyeducation\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_splash_logo.png.flat",
+        "source": "E:\\Innovate 369\\Student\\final student app\\31-12-20\\easemyeducation\\android\\app\\src\\main\\res\\drawable-xxhdpi\\splash_logo.png"
+    },
+    {
+        "merged": "E:\\Innovate 369\\Student\\final student app\\31-12-20\\easemyeducation\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_splash_logo.png.flat",
+        "source": "E:\\Innovate 369\\Student\\final student app\\31-12-20\\easemyeducation\\android\\app\\src\\main\\res\\drawable-xxxhdpi\\splash_logo.png"
+    },
+    {
+        "merged": "E:\\Innovate 369\\Student\\final student app\\31-12-20\\easemyeducation\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "E:\\Innovate 369\\Student\\final student app\\31-12-20\\easemyeducation\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Innovate 369\\Student\\final student app\\31-12-20\\easemyeducation\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\Innovate 369\\Student\\final student app\\31-12-20\\easemyeducation\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Innovate 369\\Student\\final student app\\31-12-20\\easemyeducation\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Innovate 369\\Student\\final student app\\31-12-20\\easemyeducation\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Innovate 369\\Student\\final student app\\31-12-20\\easemyeducation\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Innovate 369\\Student\\final student app\\31-12-20\\easemyeducation\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    }
+]

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Easemyedu.iml" filepath="$PROJECT_DIR$/.idea/modules/Easemyedu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Easemyedu.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Easemyedu.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1779843048/Easemyedu.react-native-community_checkbox.iml" filepath="$PROJECT_DIR$/.idea/modules/-1779843048/Easemyedu.react-native-community_checkbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1333872274/Easemyedu.react-native-community_clipboard.iml" filepath="$PROJECT_DIR$/.idea/modules/1333872274/Easemyedu.react-native-community_clipboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-973454429/Easemyedu.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/-973454429/Easemyedu.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/410321556/Easemyedu.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/410321556/Easemyedu.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-438561065/Easemyedu.react-native-image-crop-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/-438561065/Easemyedu.react-native-image-crop-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1857376008/Easemyedu.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/1857376008/Easemyedu.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-166607363/Easemyedu.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-166607363/Easemyedu.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/810552917/Easemyedu.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/810552917/Easemyedu.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-987287633/Easemyedu.react-native-spinkit.iml" filepath="$PROJECT_DIR$/.idea/modules/-987287633/Easemyedu.react-native-spinkit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/354593745/Easemyedu.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/354593745/Easemyedu.react-native-vector-icons.iml" />
+    </modules>
+  </component>
+</project>
